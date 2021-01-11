@@ -1,0 +1,58 @@
+[
+  {
+    "mode": "NULLABLE", 
+    "name": "Facebook_new_URL", 
+    "type": "STRING"
+  },
+   {
+    "mode": "NULLABLE", 
+    "name": "titre", 
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE", 
+    "name": "fb_validation", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "combined_address", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "main_category", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "main_type", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "Objet_Social", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "objet",
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "date_upload", 
+    "type": "DATE"
+  },
+  {
+    "mode": "NULLABLE", 
+    "name": "date_extract", 
+    "type": "DATE"
+  },
+  {
+    "mode": "NULLABLE", 
+    "name": "adrs_codepostal", 
+    "type": "STRING"
+  }
+]
+
